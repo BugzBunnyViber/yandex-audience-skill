@@ -7,7 +7,7 @@ Works with [Claude Code](https://claude.ai/code), [Cursor](https://cursor.com/),
 ## Install
 
 ```bash
-npx skills add brazaza/yandex-audience-skill
+npx skills add BugzBunnyViber/yandex-audience-skill
 ```
 
 ## Setup
