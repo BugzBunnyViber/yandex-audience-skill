@@ -1,0 +1,16 @@
+# Environment with secrets
+config/.env
+
+# Cache files
+cache/*.json
+cache/
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
